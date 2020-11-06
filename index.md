@@ -4,9 +4,9 @@
 
 wassup
 
-*hi
-*hello
-*halo 
+* hi
+* hello
+* halo 
 
 1. heya
 2. konichiwa
