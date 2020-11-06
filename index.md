@@ -18,4 +18,4 @@ Dogs are cool
 
 Photo time
 
-Link [Google](google.com)
+Link [Google](https://google.com/)
