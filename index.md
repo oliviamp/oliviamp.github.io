@@ -11,3 +11,6 @@ wassup
 1. heya
 2. konichiwa
 3. buenos dias
+
+Adding in a figure
+![howdy](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
