@@ -15,3 +15,7 @@ wassup
 Dogs are cool 
 
 ![howdy](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
+
+Photo time
+
+Link [Google](google.com)
